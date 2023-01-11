@@ -1,4 +1,9 @@
-# Visual Studio Code Extensions
+# Useful Extensions
+
+- [Visual Studio Code Extensions](#visual-studio-code-extensions)
+- [Chrome Extensions](#chrome-extensions)
+
+## Visual Studio Code Extensions
 
 ### General
 
@@ -25,16 +30,15 @@
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-<!-- ### Vuejs
+### Vuejs
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Vue Peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
-- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) -->
+- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
 
 ### PHP
 
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-- [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
 - [PHP Namespace Resolver](https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver)
 - [PHP Import Checker](https://marketplace.visualstudio.com/items?itemName=marabesi.php-import-checker)
 - [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade)
@@ -55,6 +59,7 @@
 
 - [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [phpfmt - PHP formatter](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt)
+- [Laravel Blade Formatter](https://marketplace.visualstudio.com/items?itemName=shufo.vscode-blade-formatter)
 
 ## Chrome Extensions
 
